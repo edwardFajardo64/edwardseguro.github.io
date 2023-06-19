@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=aseguradora
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=vendedores
+comment2.target=double\ calcularPromedioGeneral(VendedorSeguros[])
+numComments=3
